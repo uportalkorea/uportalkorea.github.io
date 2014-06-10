@@ -4,8 +4,8 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
-title : BANG SANG HUN
-production_url : http://pwer21c.github.io
+title : uPortal Korea
+production_url : http://uportalkorea.github.io
 comments :
   provider : disqus
   disqus :
@@ -20,10 +20,11 @@ comments :
     width: 580
     colorscheme: light
 
-description: "BANG sang hun."
-disqus_shortname: bangsanghunblog
+description: "uPortal Korea"
+disqus_shortname: uPortal Korea
 author :
-  name : BANG SANG HUN
-  github : pwer21c
-  twitter : pwer21c
-  email: pwer21c@gmail.com
+  name : uPortal Korea
+  github : uportalkorea
+  twitter : uportalkorea
+  email: uportal.kr@gmail.com
+
